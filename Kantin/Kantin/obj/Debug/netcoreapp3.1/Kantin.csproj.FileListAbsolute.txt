@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.exe
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.deps.json
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.runtimeconfig.json
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.runtimeconfig.dev.json
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.dll
+C:\Users\User\source\repos\Kantin\Kantin\bin\Debug\netcoreapp3.1\Kantin.pdb
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.AssemblyInfo.cs
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.dll
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.pdb
+C:\Users\User\source\repos\Kantin\Kantin\obj\Debug\netcoreapp3.1\Kantin.genruntimeconfig.cache
